@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BTooth</string>
+    <string name="textview">TextView</string>
+    <string name="positive_linked">Positive Linked</string>
+    <string name="button">Button</string>
+    <string name="control_led">Control LED</string>
+    <string name="led_on">Led On</string>
+    <string name="led_off">LED OFF</string>
+    <string name="to_disconnect">To Disconnect</string>
+    <string name="disconnect">DisConnect</string>
+    <string name="data">Data</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="light">Light:</string>
+    <string name="smart_home">Smart Home</string>
+</resources>
